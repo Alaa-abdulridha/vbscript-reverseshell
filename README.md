@@ -6,7 +6,7 @@ This is asp vbscript reverse shell used to bypass outbound closed connections.
 Upload the reverse shell on your web server as `example.asp` and then access it from the browser.
 Don't forget to replace the `YOUR_BIND_IP` with your bindshell IP and the port below `1313` with your bind shell port.
 
-## Pbfuscated Version
+## Obfuscated Version
 You can find the obfuscated version of the reverse shell, it still readable and it might be detected by some anti-viruses but atleast it won't be detected by some older windows defender version.
 Tested on windows defender in windows server 2008 R2 and windows server 2012 also on Kaspersky.
 ## Disclaimer
